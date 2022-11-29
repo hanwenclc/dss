@@ -1,3 +1,3 @@
 import snowflake
 
-snowflakegit.let_it_snow.main()
+snowflake.let_it_snow.main()
